@@ -1,1 +1,3 @@
-Using physics to determine the forces applied on a baseball, including drag and then calculating range, height and other factors using MATLAB.
+# Simulating a Home Run with and without Air Resistance
+
+This MATLAB simulation models the flight of a baseball hit with a specified launch angle and exit velocity, comparing its trajectory with and without air resistance. By taking user input for the drag coefficient and applying physics-based equations, it calculates time of flight, range, and maximum height, while simulating motion under gravity and aerodynamic drag. The results are visualized through plotted trajectories and exported to a CSV file (homerun.csv) for further analysis in Excel. This project combines analytical and numerical methods to provide a deeper understanding of real-world projectile motion.
